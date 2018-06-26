@@ -16,9 +16,11 @@
                 </div>
                 <div>
                     <div>
-                        <form>
-                            <input type="text" placeholder="Amount" id="amount">
+                        <form method="GET">
+                            <input type="text" placeholder="%s%Amount" id="amount">
                             <input type="range" id="currencies">
+                            <select></select>
+                            <label>TO:</label>
                             <select></select>
                             <input type="submit" name="convert" id="submit">
                         </form>
