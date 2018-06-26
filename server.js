@@ -1,3 +1,3 @@
 const http = require('http');
 
-http.get(res, req)=>
+http.get(res, req)=> res

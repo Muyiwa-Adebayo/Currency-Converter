@@ -1,2 +1,2 @@
 ##READ ME
-This is an app that converts any currency online and offline.
+Currency Converter helps you convert any of your currency either online or offline. Cool Yea!
