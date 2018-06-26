@@ -1,3 +1,14 @@
+body{
+    display: -webkit-flex;
+}
+
 .titleHeader{
-    display: flex;
+    flex: wrap;
+    background-color: blueviolet;
+    margin-bottom: 80px;
+}
+
+header h1{
+    color: #ffff;
+    padding: 10px;
 }
